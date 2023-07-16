@@ -307,7 +307,7 @@ function fact(n){
   else
   return n * fact(n-1) ;
 }
- let num = 5;
+ let num = 10;
  let result = fact(num);
  console.log(result);
 
